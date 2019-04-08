@@ -43,3 +43,12 @@
   mod "saz/sudo"
   mod "stahnma/epel"
   mod "trlinkin/nsswitch"
+
+# Non Forge Modules
+mod 'Roles',
+  :git    => 'https://github.com/cvquesty/profiles.git',
+  :branch => 'development'
+
+mod 'Profiles',
+  :git    => 'https://github.com/cvquesty/roles.git',
+  :branch => 'development'
