@@ -7,6 +7,7 @@
   mod "gentoo/portage"
   mod "nanliu/staging"
   mod "puppet/make"
+  mod "puppet/r10k"
   mod "puppetlabs/accounts"
   mod "puppetlabs/apache"
   mod "puppetlabs/apt"
@@ -29,4 +30,3 @@
   mod "saz/ssh"
   mod "saz/sudo"
   mod "stahnma/epel"
-  mod "zack/r10k"
