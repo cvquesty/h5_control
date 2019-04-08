@@ -19,6 +19,7 @@
   mod "puppetlabs/inventory"
   mod "puppetlabs/limits"
   mod "puppetlabs/motd"
+  mod "puppetlabs/mysql"
   mod "puppetlabs/ntp"
   mod "puppetlabs/postgresql"
   mod "puppetlabs/registry"
