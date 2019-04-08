@@ -30,3 +30,4 @@
   mod "saz/ssh"
   mod "saz/sudo"
   mod "stahnma/epel"
+  mod "trlinkin/nsswitch"
