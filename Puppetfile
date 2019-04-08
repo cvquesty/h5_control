@@ -7,6 +7,7 @@
   mod "gentoo/portage"
   mod "nanliu/staging"
   mod "puppet/archive"
+  mod "puppet/logrotate"
   mod "puppet/make"
   mod "puppet/r10k"
   mod "puppet/yum"
