@@ -45,10 +45,10 @@
   mod "trlinkin/nsswitch"
 
 # Non Forge Modules
-mod 'roles',
+mod 'profiles',
   :git    => 'https://github.com/cvquesty/profiles.git',
   :branch => 'development'
 
-mod 'profiles',
+mod 'roles',
   :git    => 'https://github.com/cvquesty/roles.git',
   :branch => 'development'
