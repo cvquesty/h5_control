@@ -1,4 +1,5 @@
 ---
+environment: 'development'
 classes: roles::frontier'
 profiles::ntp::servers:
   - '8.8.8.8'
