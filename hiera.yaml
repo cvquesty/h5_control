@@ -7,7 +7,7 @@ defaults:
 
 hierarchy:
   - name: "Nodes"
-    path: "nodes/%{trusted_certname}.yaml"
+    path: "nodes/%{trusted.certname}.yaml"
 
   - name: "Environments"
     path: "environments/%{::environment}.yaml"
