@@ -1,2 +1,2 @@
 
-Example Control Repository
+Questy.org Control Repo
