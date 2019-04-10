@@ -2,5 +2,5 @@
 environment: 'development'
 classes: roles::frontier'
 profiles::ntp::servers:
-  - '8.8.8.8'
-  - '8.8.4.4'
+  - 'time.nist.gov'
+  - '192.168.0.1'
