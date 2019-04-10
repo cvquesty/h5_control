@@ -4,3 +4,13 @@ classes: 'roles::frontier'
 profiles::ntp::servers:
   - 'time.nist.gov'
   - '192.168.0.1'
+profiles::ssh::sshport: '22'
+profiles::ssh::options:
+  Protocol: '2'
+  ListenAddress:
+    - '127.0.0.1'
+    - '%{::hostname}'
+  PasswordAuthentication: 'yes'
+  SyslogFacility: 'AUTHPRIV'
+  UsePAM: 'yes'
+  X11Forwarding: 'yes'
