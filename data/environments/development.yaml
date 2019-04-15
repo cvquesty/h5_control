@@ -14,3 +14,4 @@ profiles::ssh::options:
   UsePAM: 'yes'
   X11Forwarding: 'yes'
   Port: '22'
+profiles::motd::message: 'Welcome to Questy.org'
