@@ -16,6 +16,7 @@
   mod "puppetlabs/apache"
   mod "puppetlabs/augeas_core"
   mod "puppetlabs/apt"
+  mod "puppetlabs/augeas_core"
   mod "puppetlabs/concat"
   mod "puppetlabs/cron_core"
   mod "puppetlabs/firewall"
