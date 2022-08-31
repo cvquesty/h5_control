@@ -42,7 +42,7 @@ mod 'womply-stdlib_aws', '0.3.1'
 # OS Features - Linux
 mod 'derdanne-nfs', '2.1.8'
 mod 'ghoneycutt-common', '1.10.0'
-mod 'ghoneycutt-ssh', '3.62.0'
+mod 'saz-ssh', '9.0.0'
 mod 'herculesteam-augeasproviders_base', '2.1.0'
 mod 'herculesteam-augeasproviders_core', '3.1.0'
 mod 'herculesteam-augeasproviders_grub', '3.2.0'
