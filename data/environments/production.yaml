@@ -13,4 +13,4 @@ profiles::ssh::options:
   SyslogFacility: 'AUTHPRIV'
   UsePAM: 'yes'
   Port: '22'
-  profiles::motd::message: 'Welcome to Questy.org'
+profiles::motd::message: 'Welcome to Questy.org'
