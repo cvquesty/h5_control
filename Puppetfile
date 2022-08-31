@@ -89,8 +89,8 @@ mod 'puppetlabs-windows_puppet_certificates', '0.2.2'
 # Non Forge Modules
 mod 'profiles',
   :git    => 'https://github.com/cvquesty/profiles.git',
-  :branch => 'development'
+  :branch => 'production'
 
 mod 'roles',
   :git    => 'https://github.com/cvquesty/roles.git',
-  :branch => 'development'
+  :branch => 'production'
