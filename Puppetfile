@@ -25,6 +25,7 @@ mod 'puppetlabs-ruby_task_helper', '0.6.1'
 mod 'puppetlabs-service', '2.2.0'
 mod 'puppetlabs-stdlib', '8.2.0'
 mod 'puppetlabs-vcsrepo', '5.2.0'
+mod 'simp-simplib', '4.10.4'
 
 # Core Puppet Features
 mod 'puppet-r10k', '10.2.0'
