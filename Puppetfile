@@ -7,6 +7,7 @@ forge "http://forge.puppetlabs.com"
 mod 'choria-mcollective', '0.14.2'
 mod 'puppet-epel', '4.1.0'
 mod 'puppet-archive', '6.0.2'
+mod 'puppetlabs-apache', '8.1.0'
 mod 'puppetlabs-apt', '8.4.1'
 mod 'puppetlabs-bootstrap', '2.1.0'
 mod 'puppetlabs-concat', '7.2.0'
