@@ -34,6 +34,7 @@ mod 'puppetlabs-puppet_conf', '1.3.0'
 mod 'puppetlabs-pe_bulk_agent_install', '1.1.0'
 mod 'puppetlabs-puppet_authorization', '0.5.1'
 mod 'puppet-puppetboard', '9.0.0'
+mod 'puppetlabs-puppet_operational_dashboards', '1.2.0'
 
 # AWS Features
 mod 'accenture-hiera_aws_sm', '1.0.1'
