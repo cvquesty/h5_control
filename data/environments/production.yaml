@@ -1,16 +1,5 @@
 ---
 environment: 'production'
-classes: 'roles::puppet'
 profiles::ntp::servers:
   - 'time.nist.gov'
   - 'pool.ntp.org'
-profiles::ssh::options:
-  Protocol: '2'
-  ListenAddress:
-    - '127.0.0.1'
-    - '10.0.1.130'
-  PasswordAuthentication: 'yes'
-  SyslogFacility: 'AUTHPRIV'
-  UsePAM: 'yes'
-  Port: '22'
-profiles::motd::message: 'Welcome to Questy.org'

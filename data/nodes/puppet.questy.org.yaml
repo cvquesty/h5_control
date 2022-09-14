@@ -8,9 +8,9 @@ profiles::ssh::options:
   Protocol: '2'
   ListenAddress:
     - '127.0.0.1'
-    - '10.0.1.138'
+    - '10.0.1.130'
   PasswordAuthentication: 'yes'
   SyslogFacility: 'AUTHPRIV'
   UsePAM: 'yes'
   Port: '22'
-profiles::motd::message: 'Welcome to Frontier.Questy.org'
+profiles::motd::message: 'Welcome to Puppet.Questy.org'
