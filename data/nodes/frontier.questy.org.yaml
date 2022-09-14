@@ -1,6 +1,6 @@
 ---
 environment: 'production'
-classes: 'roles::puppet'
+classes: 'roles::frontier'
 profiles::ntp::servers:
   - 'time.nist.gov'
   - 'pool.ntp.org'
