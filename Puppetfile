@@ -101,6 +101,7 @@ mod 'puppetlabs-pwshlib', '0.10.2'
 mod 'puppetlabs-registry', '4.1.0'
 mod 'puppetlabs-scheduled_task', '3.1.0'
 mod 'puppetlabs-windows_puppet_certificates', '0.2.2'
+mod 'nanliu-staging', '1.0.3'
 
 # Non Forge Modules
 mod 'profiles',
